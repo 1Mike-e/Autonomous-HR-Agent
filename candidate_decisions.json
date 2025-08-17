@@ -1,0 +1,252 @@
+[
+  {
+    "candidate_name": "Alex Thompson",
+    "total_score": 5.5,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:27:36.210800",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.6,
+      "experience": 1.6,
+      "education": 1.1,
+      "overall_fit": 1.1
+    }
+  },
+  {
+    "candidate_name": "David Kim",
+    "total_score": 5.0,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:28:48.228046",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.0/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.5,
+      "experience": 1.5,
+      "education": 1.0,
+      "overall_fit": 1.0
+    }
+  },
+  {
+    "candidate_name": "Emily Watson",
+    "total_score": 5.5,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:30:41.118967",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.6,
+      "experience": 1.6,
+      "education": 1.1,
+      "overall_fit": 1.1
+    }
+  },
+  {
+    "candidate_name": "Jennifer Wilson",
+    "total_score": 6.0,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:32:16.325463",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 6.0/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.8,
+      "experience": 1.8,
+      "education": 1.2,
+      "overall_fit": 1.2
+    }
+  },
+  {
+    "candidate_name": "John Smith",
+    "total_score": 5.5,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:33:23.055860",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.6,
+      "experience": 1.6,
+      "education": 1.1,
+      "overall_fit": 1.1
+    }
+  },
+  {
+    "candidate_name": "Lisa Park",
+    "total_score": 5.5,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:34:50.459289",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.6,
+      "experience": 1.6,
+      "education": 1.1,
+      "overall_fit": 1.1
+    }
+  },
+  {
+    "candidate_name": "Maria Garcia",
+    "total_score": 5.5,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:36:18.507343",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.6,
+      "experience": 1.6,
+      "education": 1.1,
+      "overall_fit": 1.1
+    }
+  },
+  {
+    "candidate_name": "Mike Rodriguez",
+    "total_score": 5.5,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:37:31.911627",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 5.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.6,
+      "experience": 1.6,
+      "education": 1.1,
+      "overall_fit": 1.1
+    }
+  },
+  {
+    "candidate_name": "Robert Johnson",
+    "total_score": 4.5,
+    "decision": "REJECT",
+    "next_action": "Send rejection email",
+    "priority": "Low",
+    "decision_timestamp": "2025-08-17T15:38:42.299158",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 4.5/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.3,
+      "experience": 1.3,
+      "education": 0.9,
+      "overall_fit": 0.9
+    }
+  },
+  {
+    "candidate_name": "Sarah Chen",
+    "total_score": 6.0,
+    "decision": "MAYBE",
+    "next_action": "Phone screening required",
+    "priority": "Medium",
+    "decision_timestamp": "2025-08-17T15:40:08.383923",
+    "strengths": [
+      "Analysis completed with fallback scoring"
+    ],
+    "concerns": [
+      "Manual review recommended - automated scoring applied"
+    ],
+    "interview_focus": [
+      "Technical skills assessment",
+      "Experience validation"
+    ],
+    "reasoning": "Fallback scoring applied due to parsing error. Estimated score: 6.0/10 based on text analysis.",
+    "detailed_scores": {
+      "technical_skills": 1.8,
+      "experience": 1.8,
+      "education": 1.2,
+      "overall_fit": 1.2
+    }
+  }
+]

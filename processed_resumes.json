@@ -1,0 +1,220 @@
+{
+  "Alex Thompson": {
+    "name": "Alex Thompson",
+    "experience_years": "4",
+    "current_title": "Senior Software Engineer | ScaleUp Technologies",
+    "key_skills": [
+      "TypeScript",
+      "React",
+      "Node.js",
+      "GraphQL"
+    ],
+    "education": "B.S. Computer Science | Carnegie Mellon University",
+    "summary": "",
+    "candidate_id": "Alex Thompson",
+    "processed_at": "2025-08-17T15:10:22.894574",
+    "extraction_success": true,
+    "processing_time": 65.97095036506653
+  },
+  "David Kim": {
+    "name": "David Kim",
+    "experience_years": "2",
+    "current_title": "Backend Developer | API Solutions Inc ",
+    "key_skills": [
+      "Python",
+      "SQL",
+      "JavaScript (basic)"
+    ],
+    "education": "B.S. Information Technology | Tech University",
+    "summary": "",
+    "candidate_id": "David Kim",
+    "processed_at": "2025-08-17T15:11:00.833049",
+    "extraction_success": true,
+    "processing_time": 37.93409180641174
+  },
+  "Emily Watson": {
+    "name": "Emily Watson",
+    "experience_years": "5",
+    "current_title": "Senior Full Stack Engineer | CloudTech Corp",
+    "key_skills": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "Go",
+      "React",
+      "Next.js",
+      "Vue.js",
+      "GraphQL",
+      "FastAPI",
+      "Django",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "AWS",
+      "Azure",
+      "GCP",
+      "LangChain",
+      "TensorFlow",
+      "scikit-learn"
+    ],
+    "education": "M.S. Computer Science | Stanford University",
+    "summary": "",
+    "candidate_id": "Emily Watson",
+    "processed_at": "2025-08-17T15:12:15.675920",
+    "extraction_success": true,
+    "processing_time": 74.83990859985352
+  },
+  "Jennifer Wilson": {
+    "name": "Jennifer Wilson",
+    "experience_years": "2",
+    "current_title": "Data Analyst | Analytics Corp",
+    "key_skills": [
+      "Python (pandas, numpy)",
+      "SQL",
+      "R",
+      "Tableau",
+      "Excel",
+      "Jupyter Notebooks"
+    ],
+    "education": "B.S. Mathematics | Science University",
+    "summary": "Data analyst with 2 years of experience analyzing business data using SQL and Python pandas.",
+    "candidate_id": "Jennifer Wilson",
+    "processed_at": "2025-08-17T15:12:54.860855",
+    "extraction_success": true,
+    "processing_time": 39.1817741394043
+  },
+  "John Smith": {
+    "name": "John Smith",
+    "experience_years": "6 months",
+    "current_title": "Junior Web Developer",
+    "key_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript (basic)",
+      "Python (learning)"
+    ],
+    "education": "B.A. Communications, Local College",
+    "summary": "Create simple websites using HTML, CSS, and basic JavaScript",
+    "candidate_id": "John Smith",
+    "processed_at": "2025-08-17T15:13:31.394252",
+    "extraction_success": true,
+    "processing_time": 36.528602600097656
+  },
+  "Lisa Park": {
+    "name": "Lisa Park",
+    "experience_years": "3",
+    "current_title": "Software Engineer | FinTech Solutions",
+    "key_skills": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "education": "B.S. Computer Engineering | UC San Diego",
+    "summary": "",
+    "candidate_id": "Lisa Park",
+    "processed_at": "2025-08-17T15:14:19.699954",
+    "extraction_success": true,
+    "processing_time": 48.30358004570007
+  },
+  "Maria Garcia": {
+    "name": "Maria Garcia",
+    "experience_years": "2.5",
+    "current_title": "Full Stack Developer",
+    "key_skills": [
+      "Python",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "React",
+      "Django"
+    ],
+    "education": "B.S. Computer Science, Regional University",
+    "summary": "Full stack developer with 2.5 years of experience building customer management systems and REST APIs.",
+    "candidate_id": "Maria Garcia",
+    "processed_at": "2025-08-17T15:15:09.570244",
+    "extraction_success": true,
+    "processing_time": 49.86529064178467
+  },
+  "Mike Rodriguez": {
+    "name": "Mike Rodriguez",
+    "experience_years": 3,
+    "current_title": "Full Stack Developer | WebSolutions LLC",
+    "key_skills": [
+      "Python",
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "React",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Flask",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MySQL",
+      "Git",
+      "AWS basics",
+      "Docker basics"
+    ],
+    "education": "B.A. Computer Science | State University",
+    "summary": "",
+    "candidate_id": "Mike Rodriguez",
+    "processed_at": "2025-08-17T15:15:52.288758",
+    "extraction_success": true,
+    "processing_time": 42.71292853355408
+  },
+  "Robert Johnson": {
+    "name": "Robert Johnson",
+    "experience_years": 8,
+    "current_title": "Marketing Manager | Consumer Goods Corp ",
+    "key_skills": [
+      "Digital Marketing",
+      "Content Creation and Copywriting",
+      "Data Analysis",
+      "Project Management",
+      "Team Leadership"
+    ],
+    "education": "MBA Marketing | Business School",
+    "summary": "Managing $2M annual marketing budget, leading team of 6 marketing specialists, increasing brand awareness by 40% through digital campaigns.",
+    "candidate_id": "Robert Johnson",
+    "processed_at": "2025-08-17T15:16:30.357018",
+    "extraction_success": true,
+    "processing_time": 38.05876445770264
+  },
+  "Sarah Chen": {
+    "name": "Sarah Chen",
+    "experience_years": 4,
+    "current_title": "Senior Software Engineer",
+    "key_skills": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "React",
+      "Node.js",
+      "Django",
+      "FastAPI",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Jenkins",
+      "Jira",
+      "Figma"
+    ],
+    "education": "B.S. Computer Science | University of California, Berkeley",
+    "summary": "",
+    "candidate_id": "Sarah Chen",
+    "processed_at": "2025-08-17T15:17:21.064907",
+    "extraction_success": true,
+    "processing_time": 50.704920530319214
+  }
+}
